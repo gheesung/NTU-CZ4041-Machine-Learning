@@ -1,6 +1,6 @@
 ## Prerequisite
 
-### The following program and libraries must be installed for this to code to work
+### The following program and libraries must be installed for the code to work
 1. Python 3.7 and above
 2. numpy
 3. pandas
