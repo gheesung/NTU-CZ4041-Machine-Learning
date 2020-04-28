@@ -14,7 +14,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
-import seaborn as sns
 
 #sample_submission = pd.read_csv("../input/cat-in-the-dat/sample_submission.csv")
 test = pd.read_csv("test.csv")
